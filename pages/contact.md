@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-Contact Links
+Please visit the websites by clicking on the icons below
