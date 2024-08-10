@@ -11,7 +11,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'About Me',   url: 'about'}
+- {name: 'About Me',   url: 'pages/about'}
 
 #-------------------------------
 # Contact Section
