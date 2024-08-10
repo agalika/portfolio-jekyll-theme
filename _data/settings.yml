@@ -21,8 +21,6 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'github',    link: 'https://github.com/agalika'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/anna-galika'}
 - {icon: 'envelope',  link: 'mailto:mailto:anna.galika@gmail.com'}
